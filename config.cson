@@ -1,0 +1,36 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 92
+        green: 107
+        blue: 192
+        alpha: 1
+      genAccent: true
+      predefinedColor: "Indigo"
+    fonts: {}
+    tabs: {}
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    openEmptyEditorOnStart: false
+    themes: [
+      "atom-material-ui"
+      "oceanic-next"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "fccf55bf-579f-37e9-d439-d5df1a34b52f"
+  fonts: {}
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-log":
+    fontScale: 1
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
